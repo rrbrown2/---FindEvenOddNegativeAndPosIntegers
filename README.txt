@@ -1,0 +1,1 @@
+Finds the numbers of even odd negative and pos integers
